@@ -1,0 +1,17 @@
+username : gundasaivarma
+password : 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
+
+
+gitclassnote : gundasaivarma
+    password : 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
+
+
+
+
+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 (token varma)
+
+
+
+
+(9d40b08ffff746de9b657adc814521d4) jenkins
+cat /var/lib/jenkins/secrets/initialAdminPassword
